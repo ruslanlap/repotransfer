@@ -20,7 +20,7 @@ Here is an enhanced README with more visual polish:
 ## Usage
 
 ```bash
-chmod +x gitnewrepo.sh
+curl -sS "https://raw.githubusercontent.com/ruslanlap/repotransfer/main/repotransfer.sh" | bash && chmod +x repotransfer.sh
 ./gitnewrepo.sh
 ```
 
