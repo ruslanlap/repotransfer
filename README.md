@@ -1,8 +1,6 @@
-Here is an enhanced README with more visual polish:
-
 <div align="center">
 
-# 🚀💫 Git New Repo - Fast Repository Cloner and Pusher 📥➕⏬⏫📤 
+# 🚀 Git New Repo - Fast Repository Cloner and Pusher 📥📤 
 
 **Clone any Git repo and automatically push it to a new destination!** 
 
