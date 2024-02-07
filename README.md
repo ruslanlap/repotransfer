@@ -19,8 +19,13 @@ Here is an enhanced README with more visual polish:
 
 ## Usage
 
+
 ```bash
-curl -O "https://raw.githubusercontent.com/ruslanlap/repotransfer/main/repotransfer.sh" | bash && chmod +x repotransfer.sh
+curl -O https://raw.githubusercontent.com/ruslanlap/repotransfer/master/gitnewrepo.sh && chmod +x gitnewrepo.sh
+
+```
+
+```bash
 ./gitnewrepo.sh
 ```
 
